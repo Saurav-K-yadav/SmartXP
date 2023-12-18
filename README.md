@@ -1,19 +1,16 @@
-# BalanceFlow
+# SmartXP
 
-This is a description of `BalanceFlow`. It is released under the terms of
-the [MIT License](LICENSE).
+This is a description of `SmartXP`. 
 
-This document outlines the directory structure of the `BalanceFlow` Flutter application. The
+This document outlines the directory structure of the `SmartXP` Flutter application. The
 structure is designed to promote BloC architecture, separation of concerns, and ease of navigation.
-
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 ## Project Layout
 
 Below is the hierarchy and description of the key directories and files in the project:
 
 ```plaintext
-BalanceFlow
+SmartXP
 ├── android                 
 ├── ios                      
 ├── lib
